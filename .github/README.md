@@ -13,12 +13,19 @@ WordPress → Publishing
 Tech Stack
 
 N8N
+
 Claude Sonnet
+
 Perplexity API
+
 DataForSEO API
+
 Airtable
+
 WordPress
+
 Python
+
 
 Business Use Case
 
