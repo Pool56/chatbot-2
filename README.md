@@ -1,19 +1,34 @@
-# 💬 Chatbot template
+AI Content Automation Pipeline
+Use Case
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+A fully automated SEO content production pipeline that generates high-quality blog articles based on real search data.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
+The system:
 
-### How to run it on your own machine
+Collects keyword data from DataForSEO API
 
-1. Install the requirements
+Uses Perplexity API to extract contextual research
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+Generates structured articles using Claude Sonnet
 
-2. Run the app
+Stores metadata in Airtable
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+Automatically publishes to WordPress
+
+This demonstrates the ability to build production automation workflows that generate client deliverables across multiple accounts simultaneously.
+
+Tech Stack
+
+N8N (workflow automation)
+
+Claude Sonnet
+
+Perplexity API
+
+DataForSEO API
+
+Airtable
+
+WordPress CMS
+
+Python
