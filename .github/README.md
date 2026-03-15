@@ -14,17 +14,17 @@ Tech Stack
 
 ## N8N
 
-Claude Sonnet
+## Claude Sonnet
 
 ## Perplexity API
 
-DataForSEO API
+## DataForSEO API
 
-Airtable
+## Airtable
 
-WordPress
+## WordPress
 
-Python
+## Python
 
 
 Business Use Case
